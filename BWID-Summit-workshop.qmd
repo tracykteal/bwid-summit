@@ -1,0 +1,37 @@
+---
+title: "BWID Summit R Workshop"
+format: html
+editor: visual
+---
+
+## Welcome to the Black Women in Data Summit R workshop!
+
+In this workshop you'll get started with R, RStudio and the tidyverse. This is a hands on workshop, so you'll have the opportunity to try things out!
+
+This is a short version of a Carpentries workshop. Learn more about [The Carpentries](https://carpentries.org/) and their workshops, lessons and instructor training.
+
+**Instructors**
+
+*In person workshop*
+
+Instructor SherAaron Hurt and helper Tracy Teal
+
+*Online workshop:*
+
+Instructors: Ileana Fenwick, Samniqueka Halsey
+
+**Getting started**
+
+-   Please bring your computer. You won't need to install any software, but for best participation, it's good if you're able to try things out yourself.
+
+-   Go to this Carpentries lesson on "R and the tidyverse for working with data": <https://carpentries-incubator.github.io/r-tidyverse-4-datasets/>
+
+    -   We'll be going through Episodes 1 to 3 in this workshop
+
+-   Connect to the cloud instances for these lessons
+
+    -   Go to [this link](https://rstudio.cloud/spaces/286583/join?access_code=vcDAcTYXoytSO_TPSDnLpsCAdt6wNCxUN4uHInEE)
+
+    -   Log on using any email you have. It will authenticate with that email. This is just so each person has their own version to be able to work with.
+
+## 

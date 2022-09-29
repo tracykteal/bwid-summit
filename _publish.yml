@@ -1,0 +1,4 @@
+- source: BWID-Summit-workshop.qmd
+  quarto-pub:
+    - id: 9bc0c44e-29f7-437f-9877-c6f0909aaef3
+      url: 'https://quartopub.com/sites/tracykteal/bwid-summit-r-workshop'
