@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Welcome to the Black Women in Data Summit R workshop!
+## Welcome to the Black Women in Data Summit R workshop today!
 
 In this workshop you'll get started with R, RStudio and the tidyverse. This is a hands on workshop, so you'll have the opportunity to try things out!
 
@@ -30,8 +30,15 @@ Instructors: Ileana Fenwick, Samniqueka Halsey
 
 -   Connect to the cloud instances for these lessons
 
-    -   Go to [this link](https://rstudio.cloud/spaces/286583/join?access_code=vcDAcTYXoytSO_TPSDnLpsCAdt6wNCxUN4uHInEE)
+    -   Go to [this link for cloud instances](https://rstudio.cloud/spaces/286583/join?access_code=vcDAcTYXoytSO_TPSDnLpsCAdt6wNCxUN4uHInEE)
 
     -   Log on using any email you have. It will authenticate with that email. This is just so each person has their own version to be able to work with.
 
-## 
+    -   Once you're there go to the 'BWD-Carpentries' project
+
+![](images/BWD-Carpentries.png){fig-alt="RStudio Cloud project selection BWD-Carpentries."}
+
+That will take a little to load and then will take you to the RStudio IDE
+
+
+![](images/RStudioIDE.png){fig-alt="RStudio IDE in Cloud"}
