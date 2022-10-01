@@ -33,6 +33,21 @@ Instructors: Samniqueka Halsey
     -   Go to [this link](https://rstudio.cloud/spaces/286583/join?access_code=vcDAcTYXoytSO_TPSDnLpsCAdt6wNCxUN4uHInEE)
 
     -   Log on using any email you have. It will authenticate with that email. This is just so each person has their own version to be able to work with.
+    
+-   Connect to the cloud instances for these lessons
+
+    -   Go to [this link for cloud instances](https://rstudio.cloud/spaces/286583/join?access_code=vcDAcTYXoytSO_TPSDnLpsCAdt6wNCxUN4uHInEE)
+
+    -   Log on using any email you have. It will authenticate with that email. This is just so each person has their own version to be able to work with.
+
+    -   Once you're there go to the 'BWD-Carpentries' project
+
+![](images/BWD-Carpentries.png){fig-alt="RStudio Cloud project selection BWD-Carpentries."}
+
+That will take a little to load and then will take you to the RStudio IDE
+
+
+![](images/RStudioIDE.png){fig-alt="RStudio IDE in Cloud"}
 
 ## Stay Connected
 **Please consider joining The Carpentries Equity Cohort mailing list**
