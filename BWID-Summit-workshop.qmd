@@ -18,7 +18,7 @@ Instructor SherAaron Hurt and helper Tracy Teal
 
 *Online workshop:*
 
-Instructors: Ileana Fenwick, Samniqueka Halsey
+Instructors: Samniqueka Halsey
 
 **Getting started**
 
@@ -34,4 +34,8 @@ Instructors: Ileana Fenwick, Samniqueka Halsey
 
     -   Log on using any email you have. It will authenticate with that email. This is just so each person has their own version to be able to work with.
 
-## 
+## Stay Connected
+**Please consider joining The Carpentries Equity Cohort mailing list**
+This workshop is part of The Carpentries' [effort to promote diversity](https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/) amongst our instructors: [sign up on Topicbox](https://carpentries.topicbox.com/groups/equity-cohort) 
+
+We would love to hear your experience regarding this workshop. Consider [joining a focus group](https://forms.gle/gXSzkjnPCdyZSicWA) to help us improve our programs as we strive to offer inclusive data science education to our learners. 
